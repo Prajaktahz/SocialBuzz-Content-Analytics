@@ -23,7 +23,6 @@ Importance: Helps gauge the reach of various content categories.
 Definition: A composite score based on unique views, reactions, and shares for each content category.
 Importance: Allows for quick identification of trending topics and themes.
 ![image](https://github.com/user-attachments/assets/a8377cec-48bf-414c-8940-d989cc4e35fa)
-<img width="426" alt="image" src="https://github.com/user-attachments/assets/04d6070d-e275-481f-9312-bbc3681fe256">
 
 
 #### 4. Sentiment Analysis Score:
@@ -35,6 +34,9 @@ Importance: Assists in understanding audience perceptions and improving content 
 #### 5. Top Content Category Performance:
 Definition: Comparison of the top-performing categories based on engagement metrics.
 Importance: Reveals which categories should be prioritized in future campaigns.
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/04d6070d-e275-481f-9312-bbc3681fe256">
+![image](https://github.com/user-attachments/assets/497fd667-5c12-4ebe-a344-f2bbf0fdca5d)
+
 
 ### 💡 Insights
 From the analysis, it was observed that Travel, Culture, Animals, and Science emerged as the most popular content categories, with Travel garnering a negative sentiment, suggesting that users appreciate “real-life” and “factual” content. Notably, Food emerged as a common theme in the top 10 categories, with “Veganism” ranking highest. This insight could be leveraged to develop targeted campaigns in collaboration with healthy eating brands, boosting user engagement significantly. 🍽️🌱
