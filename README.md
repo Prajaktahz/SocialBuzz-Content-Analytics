@@ -23,7 +23,8 @@ Importance: Helps gauge the reach of various content categories.
 Definition: A composite score based on unique views, reactions, and shares for each content category.
 Importance: Allows for quick identification of trending topics and themes.
 ![image](https://github.com/user-attachments/assets/a8377cec-48bf-414c-8940-d989cc4e35fa)
-![Uploading image.png…]()
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/04d6070d-e275-481f-9312-bbc3681fe256">
+
 
 #### 4. Sentiment Analysis Score:
 Definition: Average sentiment score derived from user reactions to content, indicating positive, neutral, or negative feelings.
