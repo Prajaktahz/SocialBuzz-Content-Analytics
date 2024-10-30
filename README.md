@@ -34,7 +34,6 @@ Importance: Assists in understanding audience perceptions and improving content 
 #### 5. Top Content Category Performance:
 Definition: Comparison of the top-performing categories based on engagement metrics.
 Importance: Reveals which categories should be prioritized in future campaigns.
-<img width="426" alt="image" src="https://github.com/user-attachments/assets/04d6070d-e275-481f-9312-bbc3681fe256">
 ![image](https://github.com/user-attachments/assets/497fd667-5c12-4ebe-a344-f2bbf0fdca5d)
 
 
